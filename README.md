@@ -6,7 +6,7 @@ I have also been working on this project to show that canadian death rates have 
 
 The purpose of this data is not to draw any conclusions about the virus or its deadliness, this has been well documented as a slightly more deadly version of the common flu, a fact that I believe can be clearly seen with the yearly rise and fall of deaths during flu season not only since 2019 but over the last 10 years in it's entirety.
 
-The only conclusion I will draw is that if you repeatedly tell the populous how many people are dying from any disease you will crete panic. This is clearly evident in the fact that both diseases of the heart and Cancer have remained higher than Covid deaths for the duration of the pandemic.
+The only conclusion I will draw is that if you repeatedly tell the populous how many people are dying from any disease you will create panic. This is clearly evident in the fact that both diseases of the heart and Cancer have remained higher than Covid deaths for the duration of the pandemic.
 
 <br>
 
